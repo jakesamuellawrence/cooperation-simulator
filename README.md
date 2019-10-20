@@ -5,13 +5,13 @@ When the vault beneath Boyd Orr was opened, new hope was sparked in the hearts o
 ## How to Play
 *NOTE*: This game requires two people to play!
 
-The aim of the game is simply to get the two brothers to the right edge of the room, through the obstacle course. One player will control GrappleBro, who’s arms can shoot out grappling hooks to swing around on the ceilings and walls. The other player will control RocketBro, who’s arms fire an impulse blast to propel you around the room. RocketBro has a lot of power but not much control, while GrappleBro can control their momentum wall but not get them any height on his own. Both players must work together to get through the obstacle course.
+The aim of the game is simply to get the two brothers to the right edge of the room, through the obstacle course. One player will control GrappleBro, who’s arms can shoot out grappling hooks to swing around on the ceilings and walls. The other player will control RocketBro, who’s arms fire an impulse blast to propel you around the room. RocketBro has a lot of power but not much control, while GrappleBro can control their momentum but not get them any height on his own. Both players must work together to get through the obstacle course.
 
 *NOTE*: RocketBro’s impulse blasts have a 5 second cooldown before you can use them again. This cooldown is separate for each arm.
 
 ## How to run
 On Windows: simply download 'CooperationSimulator.exe' and run it
 
-On other OSes: download 'CooperationSimulator.love' run it using [LOVE](www.love2d.org)
+On other OSes: download 'CooperationSimulator.love' run it using [LOVE](https://love2d.org/)
 
 *NOTE*: This game will only run if two controllers are connected.
