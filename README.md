@@ -10,6 +10,8 @@ The aim of the game is simply to get the two brothers to the right edge of the r
 *NOTE*: RocketBro’s impulse blasts have a 5 second cooldown before you can use them again. This cooldown is separate for each arm.
 
 ## How to run
-Simply download 'CooperationSimulator.exe' and run it
+On Windows: simply download 'CooperationSimulator.exe' and run it
+
+On other OSes: download 'CooperationSimulator.love' run it using [LOVE](www.love2d.org)
 
 *NOTE*: This game will only run if two controllers are connected.
