@@ -1,4 +1,4 @@
-# Hacktopia Simulation Challenge
+# A 42-hour project made for the 'Do you have the GUTS 2019' Hackathon 
 ## Background
 When the vault beneath Boyd Orr was opened, new hope was sparked in the hearts of many, finally a chance to build something great for the benefit of all humanity. The elite team in charge of the simulation project soon realised humanity’s greatest weakness was their complete incapability to work together and get along. After all, that’s what ended the world in the first place. After hours of work (approximately 42 of them), this elite team eventually released Cooperation Simulator, a game of two brothers sewn together at the hip, whose only way to survive is to do so together. With hope, this game can save not just the world, but humanity itself.
 
@@ -15,3 +15,6 @@ On Windows: simply download 'CooperationSimulator.exe' and run it
 On other OSes: download 'CooperationSimulator.love' run it using [LOVE](https://love2d.org/)
 
 *NOTE*: This game will only run if two controllers are connected.
+
+## Credit
+Made by Dylan Lawrence and Jake Lawrence, using the LOVE2d engine
